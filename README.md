@@ -38,7 +38,7 @@ python run.py --validate \
 --model_save_path checkpoints/exp0 \
 --checkpoint_path /path/to/checkpoint --use_checkpoint 
 ```
-You can download the pretrained model [here]([https://github.com/gorkaydemir/ADAPT/releases/download/1.0/checkpoint.pt](https://github.com/gorkaydemir/ADAPT/releases/tag/checkpoint)).
+You can download the pretrained model [here]([[https://github.com/gorkaydemir/ADAPT/releases/download/1.0/checkpoint.pt](https://github.com/gorkaydemir/ADAPT/releases/tag/checkpoint)]).
 
 ## How to Cite
 ```bibtex
